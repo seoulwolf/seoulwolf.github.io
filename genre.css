@@ -1,0 +1,51 @@
+*
+{
+  border: 1px dashed orange;
+}
+html {
+  width: 838px;
+}
+
+h1 {
+  color: #2E4057 ;
+  background-color: #99C24D ;
+  text-align: center;
+}
+
+h2 {color: green;
+    border: 10px dashed blue;
+    background-color: yellow;
+   }
+
+nav {
+  display: inline-block;
+  width:100px;
+  position: absolute;
+  background-color: #F18F01 ;
+  height:600px;
+  border-right: 40px;
+  border-color: white;
+  }
+
+  /*top: auto;*/
+  /*display: inline-block;*/
+section {
+  display: inline-block;
+}
+.middle {
+  width: 600px;
+  padding-left: 100px;
+  display: inline-block;
+  border: 20px;
+  border-color: white;
+ padding-left: 123px;
+}
+
+.right {
+  width: 100px;
+  position: absolute;
+  padding-left: 700px;
+  top: 60px;
+  text-align: center;
+ width: 150px;
+}
